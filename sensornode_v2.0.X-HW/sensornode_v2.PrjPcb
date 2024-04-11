@@ -169,23 +169,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PEDCUNGV
 
 [Document8]
-DocumentPath=power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=200
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LTVETLZA
-
-[Document9]
 DocumentPath=sensornode_v2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FOEYBMPK
 
-[Document10]
+[Document9]
 DocumentPath=mcu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=300
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZLYNRMMS
 
-[Document11]
+[Document10]
 DocumentPath=sensornode_v2.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPNVBGTD
 
-[Document12]
+[Document11]
 DocumentPath=radio.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=400
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXVZHRCZ
 
-[Document13]
+[Document12]
 DocumentPath=sensornode_v2.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=radio.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=display.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=500
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGCQLRIQ
 
-[Document16]
+[Document15]
 DocumentPath=power.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=temperature.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=600
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYMWPPBJ
 
-[Document18]
+[Document17]
 DocumentPath=temperature.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=sensornode_v2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQQOARLG
 
-[Document20]
+[Document19]
 DocumentPath=display.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=..\libraries\components\rs232.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=700
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZTCNZGMH
 
-[Document22]
+[Document21]
 DocumentPath=mcu.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=..\libraries\components\rs232.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=ios.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=800
@@ -456,6 +439,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHZDCJOA
+
+[Document24]
+DocumentPath=power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=200
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VIPTEALS
 
 [Configuration1]
 Name=Sources
