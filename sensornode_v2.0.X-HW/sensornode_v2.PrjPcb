@@ -441,20 +441,28 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
+Name=ProjectVersionCustom
+Value=2.0
+
+[Parameter2]
 Name=ProjectRevisionCustom
 Value=A
 
-[Parameter2]
-Name=ProjectNameCustom
-Value=Sensornode v2
-
 [Parameter3]
+Name=ProjectNameCustom
+Value=Sensornode
+
+[Parameter4]
 Name=ProjectAuthorCustom
 Value=Raphael Wirtz
 
-[Parameter4]
+[Parameter5]
 Name=DateCustom
 Value=2024
+
+[Parameter6]
+Name=
+Value=
 
 [Configuration1]
 Name=Sources
