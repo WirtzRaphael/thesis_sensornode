@@ -271,23 +271,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=display.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=500
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RGCQLRIQ
-
-[Document15]
 DocumentPath=power.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=temperature.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=600
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYMWPPBJ
 
-[Document17]
+[Document16]
 DocumentPath=temperature.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=sensornode_v2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,24 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQQOARLG
 
-[Document19]
-DocumentPath=display.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
+[Document18]
 DocumentPath=..\libraries\components\rs232.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=700
@@ -389,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZTCNZGMH
 
-[Document21]
+[Document19]
 DocumentPath=mcu.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document20]
 DocumentPath=..\libraries\components\rs232.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document21]
 DocumentPath=ios.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=800
@@ -440,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHZDCJOA
 
-[Document24]
+[Document22]
 DocumentPath=power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=200
@@ -456,6 +422,39 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VIPTEALS
+
+[Document23]
+DocumentPath=joboutput.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Parameter1]
+Name=ProjectRevisionCustom
+Value=A
+
+[Parameter2]
+Name=ProjectNameCustom
+Value=Sensornode v2
+
+[Parameter3]
+Name=ProjectAuthorCustom
+Value=Raphael Wirtz
+
+[Parameter4]
+Name=DateCustom
+Value=2024
 
 [Configuration1]
 Name=Sources
