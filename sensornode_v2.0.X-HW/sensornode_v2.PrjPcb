@@ -440,29 +440,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document24]
+DocumentPath=sensornode_v2.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
-Name=ProjectVersionCustom
-Value=2.0
+Name=DateCustom
+Value=2024
 
 [Parameter2]
-Name=ProjectRevisionCustom
-Value=A
+Name=ProjectAuthorCustom
+Value=Raphael Wirtz
 
 [Parameter3]
 Name=ProjectNameCustom
 Value=Sensornode
 
 [Parameter4]
-Name=ProjectAuthorCustom
-Value=Raphael Wirtz
+Name=ProjectRevisionCustom
+Value=A
 
 [Parameter5]
-Name=DateCustom
-Value=2024
-
-[Parameter6]
-Name=
-Value=
+Name=ProjectVersionCustom
+Value=2.0
 
 [Configuration1]
 Name=Sources
