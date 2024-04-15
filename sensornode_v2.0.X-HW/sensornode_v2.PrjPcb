@@ -178,7 +178,7 @@ AnnotateScope=All
 AnnotateOrder=0
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -195,7 +195,7 @@ AnnotateScope=All
 AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -229,7 +229,7 @@ AnnotateScope=All
 AnnotateOrder=3
 DoLibraryUpdate=0
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -297,7 +297,7 @@ AnnotateScope=All
 AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -348,7 +348,7 @@ AnnotateScope=All
 AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -399,7 +399,7 @@ AnnotateScope=All
 AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -416,7 +416,7 @@ AnnotateScope=All
 AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -458,24 +458,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=DateCustom
-Value=2024
+Name=ProjectVersionCustom
+Value=2.0
 
 [Parameter2]
-Name=ProjectAuthorCustom
-Value=Raphael Wirtz
+Name=ProjectRevisionCustom
+Value=A
 
 [Parameter3]
 Name=ProjectNameCustom
 Value=Sensornode
 
 [Parameter4]
-Name=ProjectRevisionCustom
-Value=A
+Name=ProjectAuthorCustom
+Value=Raphael Wirtz
 
 [Parameter5]
-Name=ProjectVersionCustom
-Value=2.0
+Name=DateCustom
+Value=2024
 
 [Configuration1]
 Name=Sources
