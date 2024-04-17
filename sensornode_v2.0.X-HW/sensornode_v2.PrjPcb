@@ -458,23 +458,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document25]
-DocumentPath=power.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document26]
 DocumentPath=ios.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,24 +474,141 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document26]
+DocumentPath=power.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for sensornode_v2\BOM\Bill of Materials-sensornode_v2.xlsx
+DocumentPath=project_output\BOM\bill_of_material_sensornode_v2.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for sensornode_v2\BOM_JLCPCB\Bill of Materials-sensornode_v2.xlsx
+DocumentPath=project_output\BOM\Bill of Materials-sensornode_v2.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for sensornode_v2\JLCPCB\Bill of Materials-sensornode_v2.xlsx
+DocumentPath=project_output\JLCPCB\Bill of Materials-sensornode_v2.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for sensornode_v2\JLCPCB\Pick Place for sensornode_v2.csv
+DocumentPath=Project Outputs for sensornode_v2\BOM\Bill of Materials-sensornode_v2.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument5]
+DocumentPath=Project Outputs for sensornode_v2\BOM_JLCPCB\Bill of Materials-sensornode_v2.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for sensornode_v2\JLCPCB\Bill of Materials-sensornode_v2.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for sensornode_v2\project_output\BOM\Bill of Materials-sensornode_v2.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=project_output\jlcpcb\Bill of Materials jlcpcb-sensornode_v2.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=project_output\jlcpcb_assembly\Bill of Materials jlcpcb-sensornode_v2.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=project_output\JLCPCB\Pick Place for sensornode_v2.csv
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=project_output\jlcpcb_assembly\Pick Place for sensornode_v2.csv
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=project_output\jlcpcb_fabrication\Pick Place\Pick Place for sensornode_v2.csv
+DItemRevisionGUID=
+
+[GeneratedDocument13]
 DocumentPath=Project Outputs for sensornode_v2\JLCPCB\Pick Place for sensornode_v2.txt
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Parameter1]
@@ -869,17 +969,17 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=CHF|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=True|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=False|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1527|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=True|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=2|SuppliersPerSolution=1|ViewType=0|UseDirectApi=True|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=
 Configuration1_Name5=VisibleOrder
-Configuration1_Item5=Value=61|Line #=52|Comment=130|Description=158|Designator=184|Footprint=120|Quantity=65|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Item5=Comment=100|Designator=100|Footprint=120|Manufacturer Part Number 2=166|Manufacturer Part Number 1=100
 Configuration1_Name6=VisibleOrder_Base
-Configuration1_Item6=Value=61|Line #=52|Comment=130|Description=158|Designator=184|Footprint=120|Quantity=65|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Item6=Comment=100|Designator=100|Footprint=120|Manufacturer Part Number 2=166|Manufacturer Part Number 1=100
 Configuration1_Name7=VisibleOrder_Consolidated
-Configuration1_Item7=Line #=53|Comment=130|Description=100|Designator=100|Revision ID=119|Revision State=91|Revision Status=97|Quantity=66|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Item7=Line #=53|Comment=130|Description=100|Designator=100|Revision ID=119|Revision State=91|Revision Status=97|Quantity=66|Manufacturer 1=100|Manufacturer Part Number 1=100|Manufacturer Lifecycle 1=100|Supplier 1=100|Supplier Part Number 1=100|Supplier Unit Price 1=100|Supplier Subtotal 1=100|Manufacturer 2=100|Manufacturer Part Number 2=100|Manufacturer Lifecycle 2=100|Supplier 2=100|Supplier Part Number 2=100|Supplier Unit Price 2=100|Supplier Subtotal 2=100
 Configuration1_Name8=VisibleOrder_Flat
-Configuration1_Item8=Line #=53|Comment=130|Description=100|Designator=86|Revision ID=119|Revision State=91|Revision Status=97|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Item8=Line #=53|Comment=130|Description=100|Designator=86|Revision ID=119|Revision State=91|Revision Status=97|Manufacturer 1=125|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=110|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116|Manufacturer 2=99|Manufacturer Part Number 2=166|Manufacturer Lifecycle 2=142|Supplier 2=72|Supplier Part Number 2=138|Supplier Unit Price 2=122|Supplier Subtotal 2=116
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -1729,4 +1829,7 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|Use
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[Parameter Manager Custom Column Order]
+<Schematic>=jlcpcb_nr,Availability,Case/Package,Check_prices,"Component Type",Digi-Key_Part_Number,Distributor,"Distributor Nr.",Info,Manufacturer,"Manufacturer Part Number","Max Operating Temperature",MF,Mfr_Name,"Mounting Technology",MP,Name,Package,Pins,Price,Purchase-URL,RefDes,"RoHS Compliant",SnapEDA_Link,Supplier,"Supplier 1","Supplier Part Number","Supplier Part Number 1",Texas_Instruments-Purchase-URL,Tolerance,Type,Value,Voltage,"Voltage Rating"
 
