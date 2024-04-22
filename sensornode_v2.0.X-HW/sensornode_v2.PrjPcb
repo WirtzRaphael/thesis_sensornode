@@ -301,7 +301,7 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
-GenerateClassCluster=0
+GenerateClassCluster=1
 DocumentUniqueId=IYMWPPBJ
 
 [Document16]
@@ -1258,7 +1258,7 @@ Type1=1
 Type2=1
 Type3=1
 Type4=1
-Type5=1
+Type5=0
 Type6=1
 Type7=1
 Type8=1
@@ -1818,6 +1818,12 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=3V3|NetColor=$0096D0F4
+Net2=NetName=3V3_RF|NetColor=$009ABCE3
+Net3=NetName=3V3-1|NetColor=$00A57A59
+Net4=NetName=3V3-2|NetColor=$00ABB98F
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
