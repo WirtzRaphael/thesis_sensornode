@@ -1,5 +1,36 @@
 # Changelog
 
+## Revision C
+### Entscheide
+
+### Anpassungen
+*Generell*
+- Schema Top Übersicht überarbeitet
+- Power Ports sind nun global gültig.
+- Die Versorgungsspannungen wurden mit Farben gekennzeichnet und dem Power Diagramm abgeglichen.
+- MCU Schema auf A3
+- Neue Nummerieriung (Annotation)
+- Einheitliche Bezeichnung der Versorgungsspannungen (3V3, 3V3-1, 3V3-2) und verwenden von Netzklassen (Altium Parameter Set Symbol).
+
+*Power Schema*
+
+- Kontrolllogik *Power Control* zum schalten der Hauptversorgung der MCU hinzugefügt. P-Kanal FET an Ausgang von RTC, wegen Open-Collector Ausgang.
+- Charger IC für Ni-MH Beschaltung für 2000mAh Akku 3S1P mit 1/10C Ladestrom.
+- DC/DC 3V3 immer aktiv.
+- Stiftleisten am Ausgang der DC/DC Wandler und Lastschalter platziert. Ermöglicht Strommessungen und Einsetzten von externen Spannungsversorgungen (Backup).
+- Power Source mittels Schottky Dioden, FET entfernt.
+- Load Switch Modell ersetzt mit TPS22919DCKR
+  - Geringer Ruhestrom
+  - Mehr Maximalstrom als TPS22860DBVR
+
+*Komponenten & Signale*
+
+- Radio UART Verbindung angepasst (RX, TX, Flow Control)
+- Digitale Isolatoren bei Verbindungen der MCU
+  - Zwischen den Spannungsebenen 3V3 und der unterliegenden, gesteuerten 3V3-1.
+- Schema Symbol für Flash aktualisiert
+- LED's und Vorwiderstände definiert.
+
 ## Revision B
 Änderungen basieren im wesentlichen auf
 - Komponentenauswahl und deren Verfügbarkeit.
