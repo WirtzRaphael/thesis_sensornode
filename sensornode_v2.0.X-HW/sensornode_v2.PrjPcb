@@ -298,7 +298,7 @@ AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=1
@@ -400,7 +400,7 @@ AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -528,86 +528,90 @@ DocumentPath=project_output\jlcpcb_assembly\Bill of Materials jlcpcb-sensornode_
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=project_output\JLCPCB\Pick Place for sensornode_v2.csv
+DocumentPath=Project Outputs for sensornode_v2\Design Rule Check - sensornode_v2.html
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=project_output\jlcpcb_assembly\Pick Place for sensornode_v2.csv
+DocumentPath=project_output\JLCPCB\Pick Place for sensornode_v2.csv
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=project_output\jlcpcb_fabrication\Pick Place\Pick Place for sensornode_v2.csv
+DocumentPath=project_output\jlcpcb_assembly\Pick Place for sensornode_v2.csv
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for sensornode_v2\JLCPCB\Pick Place for sensornode_v2.txt
+DocumentPath=project_output\jlcpcb_fabrication\Pick Place\Pick Place for sensornode_v2.csv
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2-RoundHoles.TXT
+DocumentPath=Project Outputs for sensornode_v2\JLCPCB\Pick Place for sensornode_v2.txt
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2-SlotHoles.TXT
+DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2.DRR
+DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2.EXTREP
+DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2.LDP
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2.REP
+DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Copper_Signal_Bot.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Copper_Signal_Top.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Legend_Bot.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Legend_Top.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_NPTH_Drill.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Paste_Bot.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Paste_Top.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Profile.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_PTH_Drill.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Soldermask_Bot.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument30]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
 DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -617,7 +621,7 @@ Value=2.0
 
 [Parameter2]
 Name=ProjectRevisionCustom
-Value=C
+Value=D
 
 [Parameter3]
 Name=ProjectNameCustom
