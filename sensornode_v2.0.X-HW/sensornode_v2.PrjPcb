@@ -616,24 +616,24 @@ DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Soldermask
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectVersionCustom
-Value=2.0
+Name=DateCustom
+Value=2024
 
 [Parameter2]
-Name=ProjectRevisionCustom
-Value=D
+Name=ProjectAuthorCustom
+Value=Raphael Wirtz
 
 [Parameter3]
 Name=ProjectNameCustom
 Value=Sensornode
 
 [Parameter4]
-Name=ProjectAuthorCustom
-Value=Raphael Wirtz
+Name=ProjectRevisionCustom
+Value=D
 
 [Parameter5]
-Name=DateCustom
-Value=2024
+Name=ProjectVersionCustom
+Value=2.0
 
 [Configuration1]
 Name=Sources
