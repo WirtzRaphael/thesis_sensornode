@@ -1,5 +1,40 @@
 # Changelog
 
+## Revision D
+- Flash Winbond Footprint Grösser reduziert auf USON-8 (4x3mm)
+  - Gehäuse Kompatible mit Speicher von 16-64Mbit.
+- Isolator für Power Input Signale entfernt
+- ESD Schutz USB Datenleitung
+- Vias (stitching/shielding) Radio
+- Radio gewinkelt
+- SMD Sicherung bei USB
+- Debug Schnittstelle Ausrichtung und als SMD Stecker
+- Load Switch TPS22860 für 3V3-1 (grösseres Gehäuse)
+- Montagelöcher (M3)
+
+### I/O's
+- Anzahl Buttons, LED's reduziert und Platzierung
+- Button auf PCB für Wake Up
+- Steckverbindungen
+  - Batterie, etc.
+
+### Design
+- Route USB Differential
+- Beschriftungen
+- Vias bei GND Pads
+  - Power Schaltungsteil
+  - MCU
+- Polygon
+  - Anzahl reduziert
+    - GND Polygon auf Top und Bottom Layer
+    - 3V3 durch Routing
+  - Elektrische Verbindungen der Polygone
+  - Remove Dead Copper für GND
+
+### Sonstiges
+- Gerber Viewer Check
+- Design Rule Check
+
 ## Revision C
 ### Entscheide
 
