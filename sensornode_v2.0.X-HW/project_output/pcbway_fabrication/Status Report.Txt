@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [sensornode_v2.PcbDoc]
+   Generated File[sensornode_v2-RoundHoles.TXT]
+   Generated File[sensornode_v2-SlotHoles.TXT]
+   Generated File[sensornode_v2.LDP]
+   Generated File[sensornode_v2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:48:14 On 03.05.2024
