@@ -576,110 +576,142 @@ DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2.EXTREP
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\Gerber\sensornode_v2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2.LDP
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\NC Drill\sensornode_v2.LDP
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\Gerber\sensornode_v2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2.REP
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\Gerber\sensornode_v2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2.REP
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\Gerber\sensornode_v2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\Gerber\sensornode_v2.GM
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\Gerber\sensornode_v2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\Gerber\sensornode_v2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\Gerber\sensornode_v2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Legend_Bot.gbr
+DocumentPath=project_output\jlcpcb_fabrication\NC Drill\sensornode_v2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Legend_Bot.gbr
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\NC Drill\sensornode_v2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Legend_Top.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Legend_Top.gbr
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_NPTH_Drill.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_NPTH_Drill.gbr
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Paste_Bot.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Paste_Bot.gbr
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Paste_Top.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Paste_Top.gbr
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Profile.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Profile.gbr
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_PTH_Drill.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_PTH_Drill.gbr
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Soldermask_Bot.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Soldermask_Top.gbr
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument48]
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=project_output\jlcpcb_fabrication\GerberX2\sensornode_v2_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
 DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\sensornode_v2_Soldermask_Top.gbr
 DItemRevisionGUID=
 
