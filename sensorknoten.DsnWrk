@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=sensornode_poc_rtc\sensornode_poc_rtc.PrjPcb
+[Project2]
+ProjectPath=sensornode_v2.0.X-HW\sensornode_v2.PrjPcb
