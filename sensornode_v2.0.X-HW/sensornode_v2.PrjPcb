@@ -491,6 +491,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document27]
+DocumentPath=sensornode_v2.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XWUVCXZJ
+
 [GeneratedDocument1]
 DocumentPath=project_output\BOM\bill_of_material_sensornode_v2.xlsx
 DItemRevisionGUID=
@@ -716,24 +733,24 @@ DocumentPath=Project Outputs for sensornode_v2\pcbway_fabrication\GerberX2\senso
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectVersionCustom
-Value=2.0
+Name=DateCustom
+Value=2024
 
 [Parameter2]
-Name=ProjectRevisionCustom
-Value=E
+Name=ProjectAuthorCustom
+Value=Raphael Wirtz
 
 [Parameter3]
 Name=ProjectNameCustom
 Value=Sensornode
 
 [Parameter4]
-Name=ProjectAuthorCustom
-Value=Raphael Wirtz
+Name=ProjectRevisionCustom
+Value=E
 
 [Parameter5]
-Name=DateCustom
-Value=2024
+Name=ProjectVersionCustom
+Value=2.0
 
 [Configuration1]
 Name=Sources
